@@ -1,0 +1,31 @@
+# Website Ulang Tahun — For You ♡
+
+## Isi folder
+- `index.html` — Home
+- `profil.html` — About You
+- `kenangan.html` — Memory
+- `surat.html` — Message
+- `kejutan.html` — Surprise
+- `foto-profil.jpg`, `foto1.jpg` sampai `foto4.jpg` — foto yang bisa kamu tambahkan sendiri
+
+## Cara memasang di repository GitHub yang sama
+1. Buka repository yang menerbitkan situs `https://ysafitech.github.io/website-portfolio.yusuf/`.
+2. Pilih **Add file → Create new file**.
+3. Buat folder baru dengan nama `birthday`, lalu nama file `birthday/index.html`. Tempel isi file `index.html` dari paket ini dan commit.
+4. Ulangi untuk file lain: `birthday/profil.html`, `birthday/kenangan.html`, `birthday/surat.html`, dan `birthday/kejutan.html`.
+5. Unggah foto ke folder `birthday` dengan nama tepat: `foto-profil.jpg`, `foto1.jpg`, `foto2.jpg`, `foto3.jpg`, `foto4.jpg`. Bisa juga ganti nama `src` di HTML agar sama dengan nama foto kamu.
+6. Pastikan **Settings → Pages** masih menerbitkan branch/folder yang sama seperti sebelumnya. Tunggu sebentar setelah commit.
+7. Buka `https://ysafitech.github.io/website-portfolio.yusuf/birthday/`.
+
+## Cara unggah lewat browser lebih cepat
+Jika GitHub mengizinkan upload folder/file dari perangkat:
+1. Unduh dan ekstrak ZIP ini.
+2. Di repository, buat folder `birthday` (misalnya dengan membuat `birthday/index.html`).
+3. Masuk ke folder `birthday`, pilih **Add file → Upload files**, lalu unggah lima file HTML dan file foto.
+4. Tekan **Commit changes**.
+
+## Penting
+- Gunakan folder `birthday` agar halaman portfolio yang sudah ada tidak tertimpa.
+- Jangan mengunggah `index.html` ulang ke root repository, karena itu bisa mengganti halaman utama portfolio.
+- Jika gambar belum muncul, periksa nama file, huruf besar/kecil, dan pastikan fotonya berada di folder `birthday`.
+- Link menu di kelima halaman sudah saling terhubung menggunakan nama file relatif.
